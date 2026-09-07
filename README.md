@@ -1,3 +1,5 @@
+> 迁移通知：本仓库已归档，内容已合并至「网络组网与即时通知」的《Tailscale 异地组网》模块，请前往新地址：https://github.com/seeyouagain-laoda/network-ops-mesh/tree/main/01_Tailscale异地组网
+
 # Tailscale 异地组网
 
 > 用 [Tailscale](https://github.com/tailscale/tailscale) 把家里 PC、NAS、手机、平板组成一张加密网状 VPN，跨网络也能直连 NAS 上的服务。
